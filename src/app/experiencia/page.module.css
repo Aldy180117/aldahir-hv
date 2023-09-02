@@ -1,0 +1,21 @@
+
+.list__container{
+    background-color: #5c73bf;;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.list__container h2{
+    font-size: 22px;
+    margin-block: 20px;
+}
+.main ul{
+    list-style: none;
+}
+.main li {
+    text-align: justify;
+    margin-bottom: 20px;
+}
